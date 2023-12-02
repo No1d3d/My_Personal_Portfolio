@@ -3,7 +3,9 @@ This repository contains the code of the projects I have done during studying in
 programming school or wrote for research and educational purposes.
 
 Hello! My name is Nikita Pereverzin. I am a student of SBER 21 Programming School in Moscow. 
-I have four years of experience in C, C++ and Python programming languages.
+I have four years of experience in C, C++ and Python programming languages. I also know
+how to work with PostgreSQL, QT and MSVS.
+
 Throughout my study, I have finished several courses, such as C++ 
 software development course (SKILLBOX and Stepik educational platforms), 
 Python development course (Stepik) and I am currently deeply studying C++ 
