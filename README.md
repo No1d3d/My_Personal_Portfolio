@@ -29,6 +29,6 @@ I have been working as a data analyst in Tele2 Russia in Moscow head office for 
 since 2021 till 2023 in the mobile suite department. During my work I was assigned to a team
 who supported and updated the work of a mobile voice assistant in "Мой Tele2" mobile app.
 
-I am still studying and my goal is to grow my knowledge in the fields of graphics and 
-game development, AI and desktop app development.
+I am still studying and my goal is to grow my knowledge in the fields of computer graphics
+and game development, AI and desktop app development.
 
