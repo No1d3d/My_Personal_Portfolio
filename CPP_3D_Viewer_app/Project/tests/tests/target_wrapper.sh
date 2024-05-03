@@ -1,0 +1,6 @@
+#!/bin/bash
+DYLD_LIBRARY_PATH=/usr/local/Qt-6.6.2/lib${DYLD_LIBRARY_PATH:+:$DYLD_LIBRARY_PATH}
+export DYLD_LIBRARY_PATH
+QT_PLUGIN_PATH=/usr/local/Qt-6.6.2/plugins${QT_PLUGIN_PATH:+:$QT_PLUGIN_PATH}
+export QT_PLUGIN_PATH
+exec "$@"
