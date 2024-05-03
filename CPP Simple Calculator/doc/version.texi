@@ -1,5 +1,0 @@
-@set UPDATED 03 December 2023
-@set UPDATED-MONTH December 2023
-@set EDITION 2.0
-@set VERSION 2.0
-@set YEAR 2023
