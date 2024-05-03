@@ -3,7 +3,7 @@ This repository contains the code of the projects I have done during studying in
 programming school or wrote for research and educational purposes.
 
 Hello! My name is Nikita Pereverzin. I am a graduate of SBER 21 Programming School in Moscow. 
-I have five years of experience in programming.
+I have five years of programming experience (backend, gamedev, and desktop app development).
 
 My stack is:
 - C/C++
